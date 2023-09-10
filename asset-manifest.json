@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.js": "/matching-game/static/js/main.789b65a6.js",
+    "main.js": "/matching-game/static/js/main.b77c802c.js",
     "static/media/card4.jpg": "/matching-game/static/media/card4.8f7ba3028a988485ec83.jpg",
     "index.html": "/matching-game/index.html",
-    "main.789b65a6.js.map": "/matching-game/static/js/main.789b65a6.js.map"
+    "main.b77c802c.js.map": "/matching-game/static/js/main.b77c802c.js.map"
   },
   "entrypoints": [
-    "static/js/main.789b65a6.js"
+    "static/js/main.b77c802c.js"
   ]
 }
